@@ -39,7 +39,7 @@ I am a fullstack developer from India 🇮🇳 I am working as a Senior Software
 ### You can also find me on ...
 
 <a href="https://www.instagram.com/ravi_velip/" title="ravi_velip" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/naktu27" target="_blank" title="naktu27" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/naktu27" target="_blank" title="naktu27" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:ravivelip627@gmail.com" target="_blank" title="ravivelip627@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
